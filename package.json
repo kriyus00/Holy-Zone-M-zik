@@ -1,0 +1,20 @@
+{
+  "name": "holyzone",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node çal.js"
+  },
+  "author": "Kriyus1873",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.13",
+    "openssl": "^2.0.0",
+    "play-dl": "^1.9.7"
+  }
+}
